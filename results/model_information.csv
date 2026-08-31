@@ -1,0 +1,2 @@
+Model,Framework,Classes,Image_Size,Training_Images,Validation_Images,Test_Images,Device,Best_Epoch,Best_Validation_AUC
+DenseNet121,PyTorch,"Atelectasis, Effusion, Pneumonia",224x224,730,168,149,cuda,5,0.6825276928264762
